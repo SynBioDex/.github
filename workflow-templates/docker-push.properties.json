@@ -1,0 +1,8 @@
+{
+    "name": "Docker Push",
+    "description": "To build and push a new docker image to dockerhub",
+    "iconName": "docker-logo",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}

@@ -1,8 +1,11 @@
 {
-    "name": "Python Linting",
-    "description": "Flake8 linting on pull request",
-    "iconName": "python-snake",
+    "name": "Python Testing",
+    "description": "Run pytest tests found in the package/tests folder",
+    "iconName": "python-logo",
     "categories": [
         "Python"
+    ],
+    "filePatterns": [
+        "requirements.txt"
     ]
 }
