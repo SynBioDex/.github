@@ -1,8 +1,5 @@
 {
     "name": "Python Linting",
     "description": "Flake8 linting on pull request",
-    "iconName": "python-logo",
-    "categories": [
-        "Python"
-    ]
+    "iconName": "python-logo"
 }
