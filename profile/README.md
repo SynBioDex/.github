@@ -2,10 +2,10 @@
 
 A group to coordinate the development of standards to facilitate data exchange in synthetic biology
 
-As well as several software projects, this organization includes repoitories containing information about the SBOL/SBOL Visual standards and their development.
+As well as several software projects, this organization includes respositories containing information about the SBOL/SBOL Visual standards and their development.
 
 
-[SbolStandardWebsite](https://github.com/SynBioDex/SbolStandardWebsite) is the repo from which [http://www.sbolstandard.org/](http://www.sbolstandard.org/) is generatd
+[SbolStandardWebsite](https://github.com/SynBioDex/SbolStandardWebsite) is the repo from which [http://www.sbolstandard.org/](http://www.sbolstandard.org/) is generated.
 
 ### SBOL
 * [SBOL-specification](https://github.com/SynBioDex/SBOL-specification): the SBOL Standard
